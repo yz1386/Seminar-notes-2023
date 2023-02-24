@@ -2,6 +2,7 @@
 ********************************************************************************
 * Data workshop 1 @author: Dr. You Zhou, Leeds University Business School
 ********************************************************************************
+
 /*Set working directory*/
 cd "M:\stata"
 
