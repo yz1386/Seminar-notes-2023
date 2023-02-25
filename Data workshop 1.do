@@ -29,3 +29,6 @@ corr Volume Returns Bid Ask SharesOutstanding
 
 /*Explain functions and commands*/
 help corr
+
+/*install a new Stata package: ssc install + package name*/
+ssc install unique
