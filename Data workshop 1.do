@@ -32,4 +32,8 @@ help corr
 /*install a new Stata package: ssc install + package name*/
 ssc install unique
 
+*count the number of unique companies in your sample
 unique company
+
+*count the number of unqie date(year) in your sample
+unique year
