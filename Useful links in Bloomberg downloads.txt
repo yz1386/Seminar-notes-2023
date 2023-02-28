@@ -1,0 +1,9 @@
+
+Downloading Data using the Bloomberg Spreadsheet Builder
+https://library.bu.edu/c.php?g=543024&p=3801904
+
+How to get historical stock price data from Bloomberg in Excel (3 minutes tutorial)
+https://www.youtube.com/watch?v=QfRFrGIU2ow
+
+Downloading Time Series Data from Bloomberg
+https://www.youtube.com/watch?v=eYrQo8lvtWY
