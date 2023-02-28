@@ -17,7 +17,7 @@ describe
 
 sum 
 
-*corr 
+corr 
 
 /*Check selected variables*/
 describe total_asset bm
@@ -31,3 +31,5 @@ help corr
 
 /*install a new Stata package: ssc install + package name*/
 ssc install unique
+
+unique company
