@@ -2,30 +2,29 @@
 ********************************************************************************
 * Data workshop 1 @author: Dr. You Zhou, Leeds University Business School
 ********************************************************************************
-
 /*Set working directory*/
 cd "M:\stata"
 
 /*Import data*/
 clear all
-import excel "M:\stata\crsp.xlsx", sheet("Sheet1") firstrow
+import excel "M:\stata\example_data.xlsx", sheet("Sheet1") firstrow
 
 clear all
-import excel crsp.xlsx, sheet("Sheet1") firstrow
+import excel example_data.xlsx, sheet("Sheet1") firstrow
 
 /*Check all variables*/
 describe 
 
 sum 
 
-corr 
+*corr 
 
 /*Check selected variables*/
-describe Volume Returns Bid Ask SharesOutstanding
+describe total_asset bm
 
-sum Volume Returns Bid Ask SharesOutstanding
+sum total_asset bm return
 
-corr Volume Returns Bid Ask SharesOutstanding
+corr total_asset bm return
 
 /*Explain functions and commands*/
 help corr
