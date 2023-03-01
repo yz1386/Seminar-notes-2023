@@ -1,6 +1,6 @@
 
 ********************************************************************************
-* Data workshop 1 @author: Dr. You Zhou, Leeds University Business School
+* Data workshop 1 @author: Dr You Zhou, Leeds University Business School
 ********************************************************************************
 /*1.Check working directory*/
 
